@@ -1,9 +1,11 @@
 import React from "react";
 
+import { Header, Title } from "./styles";
+
 const HeaderEvents = () => (
-  <header>
-    <h1>CollabCode</h1>
-  </header>
+  <Header>
+    <Title>CollabCode</Title>
+  </Header>
 );
 
 export default HeaderEvents;

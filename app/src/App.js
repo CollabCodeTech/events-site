@@ -1,5 +1,7 @@
 import React from "react";
 
-const App = () => <h1>CollabCode.Events</h1>;
+import HeaderEvents from "./components/HeaderEvents";
+
+const App = () => <HeaderEvents />;
 
 export default App;
