@@ -4,7 +4,7 @@ import { Header, Title } from "./styles";
 
 const HeaderEvents = () => (
   <Header>
-    <Title>CollabCode</Title>
+    <Title>Eventos</Title>
   </Header>
 );
 
